@@ -20,3 +20,5 @@
 #### As a current staff member, the current training is monotonous and so I don't engage with the training
 
 #### As a current staff member, I would like to be presented with all my modules in a presentable dashboard so they are easy to find
+
+#### As a current staff member, being able to be competitive with my peers will help me engage with my training more.

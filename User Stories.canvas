@@ -1,16 +1,17 @@
 {
 	"nodes":[
+		{"id":"ed1c38059977a15d","x":1513,"y":291,"width":250,"height":60,"type":"text","text":""},
 		{"id":"aaaacb33a3aa07e5","type":"text","text":"#### As a manager I would like my team to engage more with the training as it means it will be more likely to stick","x":-625,"y":-100,"width":250,"height":200},
 		{"id":"032346af1c36f77a","type":"text","text":"#### As a manager the training content should be correct and up to date so that colleagues are prepared","x":-336,"y":-100,"width":250,"height":200},
 		{"id":"62733de13c1dfa7e","type":"text","text":"#### As a manager, I should be able to see what training is due so I can notify / remind colleagues to complete them","x":-38,"y":-100,"width":250,"height":200},
 		{"id":"d7f1b4ce50485b81","type":"text","text":"# Manager","x":-311,"y":-260,"width":200,"height":50},
 		{"id":"1ffb80a65102a756","type":"text","text":"#### As a new staff member that transferred, I would like my training to be enjoyable so that I dont lose interest","x":310,"y":-100,"width":250,"height":200},
 		{"id":"8593d42110cc48cd","type":"text","text":"# New Staff Member","x":560,"y":-210,"width":297,"height":50},
-		{"id":"448defa8665be461","type":"text","text":"#### As a staff member having an interactable training modules means that it will stay relevant in my head more than reading through a manual","x":800,"y":-100,"width":250,"height":251},
 		{"id":"4c88affabb11a837","type":"text","text":"# Current Staff Member","x":1120,"y":-210,"width":347,"height":50},
-		{"id":"d90858e1944540ab","type":"text","text":"#### As a current member of staff, I would like to be notified when entering the app of refreshed modules so I can stay on top of them","x":1169,"y":-66,"width":250,"height":217},
-		{"id":"01784f4b61db9925","type":"text","text":"#### As a current staff member, the current training is monotonous and so i dont engage with the training","x":1520,"y":-100,"width":250,"height":217},
-		{"id":"7e9ada171980c956","x":1811,"y":-83,"width":289,"height":234,"type":"text","text":"#### As a current staff member, i would like to be presented with all my modules in a presentable dashboard so they are easy to find"}
+		{"id":"d90858e1944540ab","type":"text","text":"#### As a current member of staff, I would like to be notified when entering the app of refreshed modules so I can stay on top of them","x":1342,"y":-66,"width":250,"height":217},
+		{"id":"01784f4b61db9925","type":"text","text":"#### As a current staff member, the current training is monotonous and so i dont engage with the training","x":1720,"y":-66,"width":250,"height":217},
+		{"id":"448defa8665be461","type":"text","text":"#### As a staff member having an interactable training modules means that it will stay relevant in my head more than reading through a manual","x":607,"y":100,"width":250,"height":251},
+		{"id":"7e9ada171980c956","type":"text","text":"#### As a current staff member, i would like to be presented with all my modules in a presentable dashboard so they are easy to find","x":976,"y":108,"width":289,"height":234}
 	],
 	"edges":[
 		{"id":"866ba2ce9b53b6bd","fromNode":"d7f1b4ce50485b81","fromSide":"bottom","toNode":"62733de13c1dfa7e","toSide":"top"},
@@ -21,6 +22,7 @@
 		{"id":"7c986d55863cee3c","fromNode":"4c88affabb11a837","fromSide":"bottom","toNode":"448defa8665be461","toSide":"top"},
 		{"id":"7fc4d5c99dc9b4e8","fromNode":"8593d42110cc48cd","fromSide":"bottom","toNode":"448defa8665be461","toSide":"top"},
 		{"id":"69e0ddd456f540a0","fromNode":"4c88affabb11a837","fromSide":"bottom","toNode":"01784f4b61db9925","toSide":"top"},
-		{"id":"19a81fa8bd7e0479","fromNode":"4c88affabb11a837","fromSide":"bottom","toNode":"7e9ada171980c956","toSide":"top"}
+		{"id":"19a81fa8bd7e0479","fromNode":"4c88affabb11a837","fromSide":"bottom","toNode":"7e9ada171980c956","toSide":"top"},
+		{"id":"5c44b3a12cd21ca5","fromNode":"8593d42110cc48cd","fromSide":"bottom","toNode":"7e9ada171980c956","toSide":"top"}
 	]
 }
